@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#Email{
+    border: solid 5px;
+    padding: 10px;
+    margin: 5px 0 0 5px;
+}
+#Senha{
+    border: solid 5px;
+    padding: 10px;
+    margin: 5px 0 0 5px;
+}
+fieldset{
+    margin: 10px;
+    height: 300px;
+    width: 600px;
+    border: solid 3px;
+    box-shadow: 10px 10px;
+    text-align: center;
+}
